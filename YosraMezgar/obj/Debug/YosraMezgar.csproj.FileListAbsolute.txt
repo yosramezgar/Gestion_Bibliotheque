@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\.Net\YosraMezgar\YosraMezgar\bin\Debug\YosraMezgar.exe.config
+C:\Users\ASUS\Desktop\.Net\YosraMezgar\YosraMezgar\bin\Debug\YosraMezgar.exe
+C:\Users\ASUS\Desktop\.Net\YosraMezgar\YosraMezgar\bin\Debug\YosraMezgar.pdb
+C:\Users\ASUS\Desktop\.Net\YosraMezgar\YosraMezgar\obj\Debug\YosraMezgar.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\.Net\YosraMezgar\YosraMezgar\obj\Debug\YosraMezgar.Ajout.resources
+C:\Users\ASUS\Desktop\.Net\YosraMezgar\YosraMezgar\obj\Debug\YosraMezgar.Form1.resources
+C:\Users\ASUS\Desktop\.Net\YosraMezgar\YosraMezgar\obj\Debug\YosraMezgar.login.resources
+C:\Users\ASUS\Desktop\.Net\YosraMezgar\YosraMezgar\obj\Debug\YosraMezgar.Modifier.resources
+C:\Users\ASUS\Desktop\.Net\YosraMezgar\YosraMezgar\obj\Debug\YosraMezgar.Properties.Resources.resources
+C:\Users\ASUS\Desktop\.Net\YosraMezgar\YosraMezgar\obj\Debug\YosraMezgar.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\.Net\YosraMezgar\YosraMezgar\obj\Debug\YosraMezgar.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\.Net\YosraMezgar\YosraMezgar\obj\Debug\YosraMezgar.exe
+C:\Users\ASUS\Desktop\.Net\YosraMezgar\YosraMezgar\obj\Debug\YosraMezgar.pdb
